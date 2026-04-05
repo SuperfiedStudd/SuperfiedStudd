@@ -35,10 +35,11 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 - Exploring eval systems, trust/risk workflows, and decision-support tools
 - Shipping projects that are recruiter-friendly and demoable
 
-## Links
+## Say Hello
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)
-- **GitHub:** [https://github.com/SuperfiedStudd](https://github.com/SuperfiedStudd)
+- **Email:** [jasjyotsingh.work@gmail.com](mailto:jasjyotsingh.work@gmail.com)
+- **Phone:** +19512270134
 
 ## Looking For
 
