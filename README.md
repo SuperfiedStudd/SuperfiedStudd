@@ -13,10 +13,12 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 ## Tech Stack
 
 **Languages:** Python, SQL, JavaScript, R  
-**AI / Data:** PyTorch, pandas, scikit-learn, LLM orchestration, evaluation systems, experimentation  
-**Backend / Infra:** Supabase, Postgres, REST APIs, Git, MLflow  
+**AI / Data:** PyTorch, pandas, scikit-learn, LLM orchestration, evaluation systems, experimentation, RAG, feature engineering, feature stores  
+**Big Data / ML Systems:** PySpark, Apache Spark, Kafka, Flink, Databricks, Snowflake, BigQuery, Delta Lake, dbt, Feast, MLflow  
+**Backend / Infra:** Supabase, Postgres, REST APIs, Git, Docker, Kubernetes, Google Cloud  
+**AI Dev Tools:** Cursor, Claude Code, Codex, Google Antigravity, Lovable  
 **Analytics / BI:** Power BI, Tableau, ETL, data modeling  
-**Other:** Lovable, Streamlit, Jupyter, RStudio
+**Other:** Streamlit, Jupyter, RStudio
 
 ## Featured Projects
 
