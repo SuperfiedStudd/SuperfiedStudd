@@ -40,7 +40,6 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)
 - **GitHub:** [https://github.com/SuperfiedStudd](https://github.com/SuperfiedStudd)
 
-## Notes
+## Looking For
 
-I care about building things that are useful, explainable, and actually shippable.  
-Not demo fluff. Real systems, clear logic, visible outcomes.
+Full-time opportunities in **AI Product Management, Product, Data, and analytics-focused roles** across the US, especially **San Francisco and other major cities**.
