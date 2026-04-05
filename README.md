@@ -25,8 +25,9 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 | [AI Evals Orchestration](https://github.com/SuperfiedStudd/ai-evals-orchestration) | End-to-end evaluation workflow for comparing model outputs, saving decisions, and supporting human review |
 | [Trust Pulse](https://github.com/SuperfiedStudd/trust-pulse) | Subscription abuse operations console linking accounts, payment methods, devices, IPs, and clusters for investigation |
 | [Recommendation Quality Lab](https://github.com/SuperfiedStudd/recommendation-quality-lab) | Offline recommender experimentation lab with temporal splits, candidate generation, ranking, and beyond-accuracy metrics |
-| [Power BI Apps Showcase](https://github.com/SuperfiedStudd/Power-BI-Apps-Showcase) | Showcase of 15 Power BI apps built for SMB reporting across sales, finance, inventory, operations, and production |
+| [Behavioral Prediction Engine](https://github.com/TanmayKallakuri/nexus) | Hackathon group project combining behavioral profiling, ML, and LLM-based prediction to forecast how real people would answer hidden survey questions |
 | [Context Parking](https://github.com/SuperfiedStudd/context-parking) | Structured context management system for saving, retrieving, and reusing work context across AI workflows |
+| [Power BI Apps Showcase](https://github.com/SuperfiedStudd/Power-BI-Apps-Showcase) | Showcase of 15 Power BI apps built for SMB reporting across sales, finance, inventory, operations, and production |
 
 ## Current Focus
 
