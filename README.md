@@ -37,9 +37,9 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 
 ## Say Hello
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)
+- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)](https://www.linkedin.com/in/jasjyot-singh-14a8aa217/)
 - **Email:** [jasjyotsingh.work@gmail.com](mailto:jasjyotsingh.work@gmail.com)
-- **Phone:** +19512270134
+- **Phone:** +1 (951) 227-0134
 
 ## Looking For
 
