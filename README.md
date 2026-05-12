@@ -24,6 +24,7 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 
 | Project | What It Does |
 |---|---|
+| [RAG Guard Copilot](https://github.com/SuperfiedStudd/rag-guard-copilot) | Role-aware secure RAG copilot for enterprise AI workflows with permissioned retrieval, prompt-injection defense, PII masking, audit logging, and LLM observability |
 | [AI Evals Orchestration](https://github.com/SuperfiedStudd/ai-evals-orchestration) | End-to-end evaluation workflow for comparing model outputs, saving decisions, and supporting human review |
 | [Trust Pulse](https://github.com/SuperfiedStudd/trust-pulse) | Subscription abuse operations console linking accounts, payment methods, devices, IPs, and clusters for investigation |
 | [Recommendation Quality Lab](https://github.com/SuperfiedStudd/recommendation-quality-lab) | Offline recommender experimentation lab with temporal splits, candidate generation, ranking, and beyond-accuracy metrics |
