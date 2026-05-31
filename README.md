@@ -47,4 +47,4 @@ I build LLM-driven systems, analytics products, and decision tools across produc
 
 ## Looking For
 
-Full-time opportunities in **AI Product Management, Product, Data, and analytics-focused roles** across the US, especially **San Francisco and other major cities**.
+Full-time opportunities in **AI Product Management, Forward Deployed Engineer, Product, Data, and analytics-focused roles** across the US, especially **San Francisco and other major cities**.
